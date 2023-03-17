@@ -729,6 +729,13 @@
 },
 
 {
+  "VendorTag": "com.oplus.pre.open.camera.support",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
+},
+
+{
     "VendorTag": "com.oplus.disable.raw",
     "Type": "Byte",
     "Count": "1",

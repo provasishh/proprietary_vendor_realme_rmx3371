@@ -969,11 +969,11 @@ PRODUCT_COPY_FILES += \
     vendor/realme/rmx3371/proprietary/odm/lib64/camera/com.qti.sensormodule.qtech_ov64b.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.qtech_ov64b.bin \
     vendor/realme/rmx3371/proprietary/odm/lib64/camera/com.qti.sensormodule.shine_ov02b.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.shine_ov02b.bin \
     vendor/realme/rmx3371/proprietary/odm/lib64/camera/com.qti.sensormodule.truly_hi846.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.truly_hi846.bin \
-    vendor/realme/rmx3371/proprietary/odm/lib64/camera/com.qti.sensormodule.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.truly_imx471.bin \
+    vendor/realme/rmx3371/proprietary/odm/lib64/camera/com.qti.sensormodule.truly_imx471_21732.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.truly_imx471_21732.bin \
     vendor/realme/rmx3371/proprietary/odm/lib64/camera/com.qti.tuned.sm8250_qtech_ov64b.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.sm8250_qtech_ov64b.bin \
     vendor/realme/rmx3371/proprietary/odm/lib64/camera/com.qti.tuned.sm8250_shine_ov02b.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.sm8250_shine_ov02b.bin \
     vendor/realme/rmx3371/proprietary/odm/lib64/camera/com.qti.tuned.sm8250_truly_hi846.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.sm8250_truly_hi846.bin \
-    vendor/realme/rmx3371/proprietary/odm/lib64/camera/com.qti.tuned.sm8250_truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.sm8250_truly_imx471.bin \
+    vendor/realme/rmx3371/proprietary/odm/lib64/camera/com.qti.tuned.sm8250_truly_imx471_21732.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.sm8250_truly_imx471_21732.bin \
     vendor/realme/rmx3371/proprietary/odm/lib64/camera/components/com.oplus.node.aiaftrack.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.node.aiaftrack.so \
     vendor/realme/rmx3371/proprietary/odm/lib64/camera/components/com.oplus.node.drawafinfo.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.node.drawafinfo.so \
     vendor/realme/rmx3371/proprietary/odm/lib64/camera/components/com.oplus.node.ecs.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.node.ecs.so \
