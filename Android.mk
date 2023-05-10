@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),rmx3371)
+ifeq ($(TARGET_DEVICE),RMX3371)
 
 endif
